@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/usaid__asif" target="blank"><img src="https://img.shields.io/twitter/follow/usaid__asif?logo=twitter&style=for-the-badge" alt="usaid__asif" /></a> </p>
 
+- 💬 Ask me about **Flutter, Android (Java)**
+
 - 📫 How to reach me **usaidasif12@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/usaid-asif-230693233/](https://www.linkedin.com/in/usaid-asif-230693233/)
+
+- ⚡ Fun fact **I love to learn about software development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
