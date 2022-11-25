@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usaid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="usaid-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/usaid__asif" target="blank"><img src="https://img.shields.io/twitter/follow/usaid__asif?logo=twitter&style=for-the-badge" alt="usaid__asif" /></a> </p>
-
 - 💬 Ask me about **Flutter, Android (Java)**
 
 - 📫 How to reach me **usaidasif12@gmail.com**
